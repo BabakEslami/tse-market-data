@@ -1,0 +1,19 @@
+{
+  "_endpoint": "https://cdn.tsetmc.com/api/ClosingPrice/GetClosingPriceInfo/{InsCode}",
+  "_note": "نمونه ساختاری برای یک نماد فعال و مجاز (نه متوقف). فیلد cEtaval/cEtavalTitle برای تشخیص وضعیت توقف/تعلیق کلیدی است.",
+  "closingPriceInfo": {
+    "insCode": "17914401175772326",
+    "pClosing": 12500,
+    "priceChange": 150,
+    "priceChangePercent": 1.21,
+    "pDrCotVal": 12350,
+    "zTotTran": 4200,
+    "qTotTran5J": 18500000,
+    "qTotCap": 231000000000,
+    "instrumentState": {
+      "cEtaval": "A ",
+      "cEtavalTitle": "مجاز",
+      "underSupervision": 0
+    }
+  }
+}

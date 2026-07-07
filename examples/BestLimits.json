@@ -1,0 +1,11 @@
+{
+  "_endpoint": "https://cdn.tsetmc.com/api/BestLimits/{InsCode}",
+  "_note": "این یک delta feed است، نه اسنپ‌شات کامل. برای بازسازی دقیق عمق بازار، carry-forward stateful لازم است. نمونه‌ی ۵ سطحی زیر ساختاری است.",
+  "bestLimits": [
+    { "number": 1, "zOrdMeDem": 1200, "pMeDem": 12480, "pMeOf": 12520, "zOrdMeOf": 800 },
+    { "number": 2, "zOrdMeDem": 2500, "pMeDem": 12470, "pMeOf": 12530, "zOrdMeOf": 1400 },
+    { "number": 3, "zOrdMeDem": 900,  "pMeDem": 12460, "pMeOf": 12540, "zOrdMeOf": 600 },
+    { "number": 4, "zOrdMeDem": 1800, "pMeDem": 12450, "pMeOf": 12550, "zOrdMeOf": 2200 },
+    { "number": 5, "zOrdMeDem": 700,  "pMeDem": 12440, "pMeOf": 12560, "zOrdMeOf": 950 }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_endpoint": "https://cdn.tsetmc.com/api/Instrument/GetInstrumentSearch/{Query}",
+  "_note": "جستجوی نماد بر اساس کلیدواژه؛ برای تبدیل نام نماد به InsCode جهت استفاده در سایر endpoint ها استفاده می‌شود.",
+  "instrumentSearch": [
+    {
+      "insCode": "17914401175772326",
+      "lVal18AFC": "اهرم",
+      "lVal30": "صندوق س. اهرمي كاريزما",
+      "cIsin": "IRT1XXXXX001",
+      "flowTitle": "بورس"
+    },
+    {
+      "insCode": "9999999999999999",
+      "lVal18AFC": "اهرم2",
+      "lVal30": "نمونه فرضی مشابه",
+      "cIsin": "IRT1XXXXX002",
+      "flowTitle": "فرابورس"
+    }
+  ]
+}
